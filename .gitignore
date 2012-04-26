@@ -1,7 +1,4 @@
 /gwt-unitCache
-/.settings
-/.project
-/.classpath
 /war/WEB-INF/classes
 /war/WEB-INF/lib
 /war/WEB-INF/deploy
